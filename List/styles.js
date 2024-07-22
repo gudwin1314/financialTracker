@@ -22,6 +22,7 @@ const styles = StyleSheet.create({
       fontSize: 16,
       color: '#333',
       marginBottom: 4,
+      fontWeight: 'bold'
     },
     amount: {
       fontSize: 16,
